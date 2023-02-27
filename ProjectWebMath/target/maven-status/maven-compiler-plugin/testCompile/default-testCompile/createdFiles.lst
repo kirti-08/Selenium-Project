@@ -1,0 +1,13 @@
+com\excelr\ProjectWebMath\PageObjects\PlotsGeometry.class
+com\excelr\ProjectWebMath\TestRunner\QuickHelpTest.class
+com\excelr\ProjectWebMath\PageObjects\TrigCalculus.class
+com\excelr\ProjectWebMath\PageObjects\HomePage.class
+com\excelr\ProjectWebMath\PageObjects\MathForEveryone.class
+com\excelr\ProjectWebMath\Common\FileHandler.class
+com\excelr\ProjectWebMath\PageObjects\GeneralMath.class
+com\excelr\ProjectWebMath\PageObjects\QuickHelp.class
+com\excelr\ProjectWebMath\Common\WaitTime.class
+com\excelr\ProjectWebMath\PageObjects\KindergartenGrade08.class
+com\excelr\ProjectWebMath\Common\BrowserFactory.class
+com\excelr\ProjectWebMath\TestRunner\KindergartenGrade08Test.class
+com\excelr\ProjectWebMath\PageObjects\OtherStuff.class

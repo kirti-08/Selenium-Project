@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-26T09:54:19Z" name="Command line suite" finished-at="2023-02-26T09:55:42Z" duration-ms="83239">
+    <groups>
+    </groups>
+    <test started-at="2023-02-26T09:54:19Z" name="Command line test" finished-at="2023-02-26T09:55:42Z" duration-ms="83239">
+      <class name="com.excelr.ProjectWebMath.TestRunner.QuickHelpTest">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.QuickHelpTest@1afd44cb]" started-at="2023-02-26T09:54:53Z" name="preCondition" finished-at="2023-02-26T09:55:02Z" duration-ms="9295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="convertTemperature()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.QuickHelpTest@1afd44cb]" started-at="2023-02-26T09:55:02Z" name="convertTemperature" finished-at="2023-02-26T09:55:08Z" duration-ms="6234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- convertTemperature -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.QuickHelpTest@1afd44cb]" started-at="2023-02-26T09:55:08Z" name="preCondition" finished-at="2023-02-26T09:55:24Z" duration-ms="15548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="inputZeroUnacceptableForFractionToDecimal()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.QuickHelpTest@1afd44cb]" started-at="2023-02-26T09:55:24Z" name="inputZeroUnacceptableForFractionToDecimal" finished-at="2023-02-26T09:55:36Z" duration-ms="11954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputZeroUnacceptableForFractionToDecimal -->
+      </class> <!-- com.excelr.ProjectWebMath.TestRunner.QuickHelpTest -->
+      <class name="com.excelr.ProjectWebMath.TestRunner.KindergartenGrade08Test">
+        <test-method is-config="true" signature="dataReader()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.KindergartenGrade08Test@72057ecf]" started-at="2023-02-26T09:54:19Z" name="dataReader" finished-at="2023-02-26T09:54:19Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataReader -->
+        <test-method is-config="true" signature="dataReader()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.QuickHelpTest@1afd44cb]" started-at="2023-02-26T09:54:19Z" name="dataReader" finished-at="2023-02-26T09:54:19Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataReader -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.KindergartenGrade08Test@72057ecf]" started-at="2023-02-26T09:54:19Z" name="preCondition" finished-at="2023-02-26T09:54:34Z" duration-ms="14742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="fractionNumeratorSmallerThanDenominator()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.KindergartenGrade08Test@72057ecf]" started-at="2023-02-26T09:54:34Z" name="fractionNumeratorSmallerThanDenominator" finished-at="2023-02-26T09:54:38Z" duration-ms="3741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fractionNumeratorSmallerThanDenominator -->
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.KindergartenGrade08Test@72057ecf]" started-at="2023-02-26T09:54:38Z" name="preCondition" finished-at="2023-02-26T09:54:48Z" duration-ms="10192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="studyRectangle()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.KindergartenGrade08Test@72057ecf]" started-at="2023-02-26T09:54:48Z" name="studyRectangle" finished-at="2023-02-26T09:54:53Z" duration-ms="4900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- studyRectangle -->
+        <test-method is-config="true" signature="conclusion()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.KindergartenGrade08Test@72057ecf]" started-at="2023-02-26T09:55:36Z" name="conclusion" finished-at="2023-02-26T09:55:39Z" duration-ms="3447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conclusion -->
+        <test-method is-config="true" signature="conclusion()[pri:0, instance:com.excelr.ProjectWebMath.TestRunner.QuickHelpTest@1afd44cb]" started-at="2023-02-26T09:55:39Z" name="conclusion" finished-at="2023-02-26T09:55:42Z" duration-ms="3023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conclusion -->
+      </class> <!-- com.excelr.ProjectWebMath.TestRunner.KindergartenGrade08Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
